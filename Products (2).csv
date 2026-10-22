@@ -1,0 +1,11 @@
+ProductID,Product,Category,UnitPrice,UnitCost
+PROD001,Desk,Furniture,420,255
+PROD002,Headset,Electronics,95,48
+PROD003,Keyboard,Accessories,75,38
+PROD004,Laptop,Electronics,850,620
+PROD005,Monitor,Electronics,320,210
+PROD006,Mouse,Accessories,45,22
+PROD007,Office Chair,Furniture,280,165
+PROD008,Printer,Office Equipment,390,245
+PROD009,USB Hub,Accessories,55,27
+PROD010,Webcam,Electronics,120,65
